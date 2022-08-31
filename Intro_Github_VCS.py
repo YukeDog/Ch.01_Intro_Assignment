@@ -41,13 +41,12 @@ Tell me some interesting facts about yourself.
 This is the master branch
 favorite color: blue
 01/18/2007
-
-
-
-
-
-
-
+I play Baseball during the summer
+I golf during the fall
+I like to work with computers
+I have a brother named Austen
+Austen's birthday was yesterday
+I have 2 cats
 ------------------Student 05------------------
 
 

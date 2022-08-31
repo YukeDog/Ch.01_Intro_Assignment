@@ -89,6 +89,7 @@ Tell me some interesting facts about yourself.
 
 +!#+-*-=^_*+-_-*Ethan Huynh-_^-*-+=*=!+^_*^=+
 This is the testing branch
+my favorite color is red
 
 
 

@@ -179,7 +179,7 @@ Tell me some interesting facts about yourself.
 
 ------------------Carter Sousa------------------
 This is the testing branch
-
+Favorite color: maroon and teal
 
 
 

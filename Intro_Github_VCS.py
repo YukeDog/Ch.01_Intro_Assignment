@@ -31,12 +31,12 @@ Tell me some interesting facts about yourself.
 This is the master branch
 favorite color: purple
 02/27/07
-
-
-
-
-
-
+I have 2 sisters
+I live in Urbandale
+I am 15
+I have a dog
+Math is the best class
+I'm hungry
 ------------------Student 04------------------
 
 

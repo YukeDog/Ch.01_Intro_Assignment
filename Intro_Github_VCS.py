@@ -38,9 +38,8 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Tanner Evitts------------------
-This is the testing branch
-favorite color: blue
 This is the master branch
+favorite color: blue
 01/18/2007
 
 

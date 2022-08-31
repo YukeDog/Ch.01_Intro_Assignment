@@ -108,9 +108,8 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Christian KElly------------------
-This is the testing Branch
-favorite color: purple
 This is the master Branch
+favorite color: purple
 04/07/2006
 
 

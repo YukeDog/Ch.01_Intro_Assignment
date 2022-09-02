@@ -187,6 +187,16 @@ I like food
 
 
 
+------------------Carter Sousa------------------
+This is the master branch
+Favorite color: Maroon and Teal
+Birthday: 12/28/2004
+fear:Darkness
+favorite crustacean: Mantis Shrimp
+favorite insect: Dragonfly
+Favorite mammal: Maned Wolf
+Favorite conversation topics: Kardashev Scale
+Hobbies: Soccer, Cooking, Sewing, Rock Climbing
 ------------------Kadin Terronez------------------
 this is the master branch
 favorite color: blue

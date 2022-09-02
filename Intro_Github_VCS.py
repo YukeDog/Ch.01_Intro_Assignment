@@ -177,16 +177,6 @@ I can speak 3 launguages
 I don't have a car
 I am broke
 I like food
-------------------Student 18------------------
-
-
-
-
-
-
-
-
-
 ------------------Carter Sousa------------------
 This is the master branch
 Favorite color: Maroon and Teal

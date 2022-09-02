@@ -197,16 +197,16 @@ favorite class: Adv. Accounting
 
 
 
-------------------Student 20------------------
-
-
-
-
-
-
-
-
-
+------------------Aidan Z.------------------
+This is the Master Branch
+fav color blue
+04/01/05
+I have played hockey for 10 years
+I want to go into aerospace/astronautical engineering
+Is water wet?
+Who is Shrodinger?
+Why do I have is cat?
+Wait, where did the cat go?
 ------------------Student 21------------------
 
 

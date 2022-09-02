@@ -107,16 +107,16 @@ I listen to music a lot
 
 
 
-------------------Student 11------------------
-
-
-
-
-
-
-
-
-
+------------------Christian KElly------------------
+This is the master Branch
+favorite color: purple
+04/07/2006
+favorite sport: soccer
+Favorite food: Burger
+Favorite subject: Science
+Favorite season: winter
+favorite State: California
+Favorite class: Strength
 ------------------Student 12------------------
 
 

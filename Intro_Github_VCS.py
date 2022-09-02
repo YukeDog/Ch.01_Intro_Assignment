@@ -17,16 +17,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 02------------------
-
-
-
-
-
-
-
-
-
+------------------Andrew Donoho------------------
+this is the master branch
+I like to play video games
+I am on cross country team
+things that I hate to do is math
+The best subject at school is history
+I love to eat apple pie
+i love to eat ice cream
+my favourite game to play is minecraft
+I would love to go to italy
 ------------------Owen Earp------------------
 This is the master branch
 favorite color: purple
@@ -47,16 +47,16 @@ I'm hungry
 
 
 
-------------------Student 05------------------
-
-
-
-
-
-
-
-
-
+------------------Matthew Fletcher------------------
+this is the master branch
+10/24/2005
+favorite color: purple
+I play trombone
+My favorite band is acid black cherry
+My favorite video game is destiny
+My least favorite color is yellow
+I'm taking German III
+I'm the middle child
 ------------------Student 06------------------
 
 
@@ -87,16 +87,16 @@ I'm hungry
 
 
 
-------------------Student 09------------------
-
-
-
-
-
-
-
-
-
++!#+-*-=^_*+-_-*Ethan Huynh-_^-*-+=*=!+^_*^=+
+I play games sometimes
+10/30/04
+my favorite food is pasta
+my favorite color is red
+I work at hyvee but I want to work at smokey row
+I have a caffeine addiction
+I like star wars too
+I drive a hatchback impreza
+I listen to music a lot
 ------------------Student 10------------------
 
 
@@ -107,16 +107,16 @@ I'm hungry
 
 
 
-------------------Student 11------------------
-
-
-
-
-
-
-
-
-
+------------------Christian KElly------------------
+This is the master Branch
+favorite color: purple
+04/07/2006
+favorite sport: soccer
+Favorite food: Burger
+Favorite subject: Science
+Favorite season: winter
+favorite State: California
+Favorite class: Strength
 ------------------Student 12------------------
 
 
@@ -137,7 +137,6 @@ I'm hungry
 
 
 
-
 ------------------Student 14------------------
 
 
@@ -147,16 +146,17 @@ I'm hungry
 
 
 
-------------------Student 15------------------
 
-
-
-
-
-
-
-
-
+------------------Carter Mcinville------------------
+This is the master branch
+favorite color: pink
+07/01/2005
+I play baseball
+cars 2 was a disaster
+Better call saul is top 3 series of all time
+i have renegade raider
+kanye west is consistently in my playlist
+Texas roadhouse makes some pretty good rolls
 ------------------Student 16------------------
 
 
@@ -167,46 +167,46 @@ I'm hungry
 
 
 
-------------------Student 17------------------
-
-
-
-
-
-
-
-
-
-------------------Student 18------------------
-
-
-
-
-
-
-
-
-
-------------------Student 19------------------
-
-
-
-
-
-
-
-
-
-------------------Student 20------------------
-
-
-
-
-
-
-
-
-
+------------------Benjamin------------------
+This is the master branch
+06/24/2005
+favorite color is blue
+I play soccer for the school
+My favorite fast food chain is Chick Fil A
+I can speak 3 launguages
+I don't have a car
+I am broke
+I like food
+------------------Carter Sousa------------------
+This is the master branch
+Favorite color: Maroon and Teal
+Birthday: 12/28/2004
+fear:Darkness
+favorite crustacean: Mantis Shrimp
+favorite insect: Dragonfly
+Favorite mammal: Maned Wolf
+Favorite conversation topics: Kardashev Scale
+Hobbies: Soccer, Cooking, Sewing, Rock Climbing
+------------------Kadin Terronez------------------
+this is the master branch
+favorite color: blue
+06/06/2006
+favorite animal: dog
+favorite sport: baseball
+favorite food: steak
+favorite subject: math
+favorite app: Youtube
+favorite class: Adv. Accounting
+------------------Aidan Z.------------------
+This is the Master Branch
+fav color blue
+04/01/05
+I have played hockey for 10 years
+I want to go into aerospace/astronautical engineering
+Is water wet?
+Who is Shrodinger?
+Why do I have is cat?
+Wait, where did the cat go?
 ------------------Student 21------------------
 
 

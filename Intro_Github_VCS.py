@@ -88,14 +88,14 @@ Tell me some interesting facts about yourself.
 
 
 +!#+-*-=^_*+-_-*Ethan Huynh-_^-*-+=*=!+^_*^=+
-This is the master branch
+I play games sometimes
 10/30/04
 my favorite food is pasta
 my favorite color is red
 I work at hyvee but I want to work at smokey row
 I have a caffeine addiction
 I like star wars too
-I drive a car
+I drive a hatchback impreza
 I listen to music a lot
 ------------------Student 10------------------
 

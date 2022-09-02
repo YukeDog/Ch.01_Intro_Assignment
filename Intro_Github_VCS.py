@@ -37,16 +37,16 @@ I am 15
 I have a dog
 Math is the best class
 I'm hungry
-------------------Student 04------------------
-
-
-
-
-
-
-
-
-
+------------------Tanner Evitts------------------
+This is the master branch
+favorite color: blue
+01/18/2007
+I play Baseball during the summer
+I golf during the fall
+I like to work with computers
+I have a brother named Austen
+Austen's birthday was yesterday
+I have 2 cats
 ------------------Matthew Fletcher------------------
 this is the master branch
 10/24/2005

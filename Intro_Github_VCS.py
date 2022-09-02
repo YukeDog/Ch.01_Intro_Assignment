@@ -47,16 +47,16 @@ I would love to go to italy
 
 
 
-------------------Student 05------------------
-
-
-
-
-
-
-
-
-
+------------------Matthew Fletcher------------------
+this is the master branch
+10/24/2005
+favorite color: purple
+I play trombone
+My favorite band is acid black cherry
+My favorite video game is destiny
+My least favorite color is yellow
+I'm taking German III
+I'm the middle child
 ------------------Student 06------------------
 
 

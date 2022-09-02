@@ -201,12 +201,12 @@ Tell me some interesting facts about yourself.
 fav color blue
 This is the master branch
 04/01/05
-
-
-
-
-
-
+I have played hockey for 10 years
+I want to go into aerospace/astronautical engineering
+Is water wet?
+Who is Shrodinger?
+Why do I have is cat?
+Wait, where did the cat go?
 ------------------Student 21------------------
 
 

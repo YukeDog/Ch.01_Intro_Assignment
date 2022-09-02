@@ -137,8 +137,8 @@ Favorite class: Strength
 
 
 
-
 ------------------Student 14------------------
+
 
 
 

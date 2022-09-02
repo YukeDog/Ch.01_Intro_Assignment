@@ -177,7 +177,17 @@ Texas roadhouse makes some pretty good rolls
 
 
 
-------------------Kadin Terronez------------------
+------------------Student 18------------------
+
+
+
+
+
+
+
+
+
+------------------Student 19------------------
 this is the master branch
 favorite color: blue
 06/06/2006
@@ -187,16 +197,6 @@ favorite food: steak
 favorite subject: math
 favorite app: Youtube
 favorite class: Adv. Accounting
-------------------Student 19------------------
-
-
-
-
-
-
-
-
-
 ------------------Aidan Z.------------------
 This is the Master Branch
 fav color blue

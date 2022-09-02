@@ -111,13 +111,12 @@ Tell me some interesting facts about yourself.
 This is the master Branch
 favorite color: purple
 04/07/2006
-
-
-
-
-
-
-
+favorite sport: soccer
+Favorite food: Burger
+Favorite subject: Science
+Favorite season: winter
+favorite State: California
+Favorite class: Strength
 ------------------Student 12------------------
 
 

@@ -57,16 +57,16 @@ My favorite video game is destiny
 My least favorite color is yellow
 I'm taking German III
 I'm the middle child
-------------------Student 06------------------
-
-
-
-
-
-
-
-
-
+--------------Matthew Hammerand---------------
+This is the master branch
+01/12/2006
+favorite color: orange
+favorite animal: monkey
+favorite food: mac n cheese
+least favorite color: neon pink
+least favorite food: anything spicy
+sports im in: cross country
+language im taking: adv spanish III
 ------------------Student 07------------------
 
 

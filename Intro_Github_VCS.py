@@ -27,16 +27,16 @@ I love to eat apple pie
 i love to eat ice cream
 my favourite game to play is minecraft
 I would love to go to italy
-------------------Student 03------------------
-
-
-
-
-
-
-
-
-
+------------------Owen Earp------------------
+This is the master branch
+favorite color: purple
+02/27/07
+I have 2 sisters
+I live in Urbandale
+I am 15
+I have a dog
+Math is the best class
+I'm hungry
 ------------------Student 04------------------
 
 

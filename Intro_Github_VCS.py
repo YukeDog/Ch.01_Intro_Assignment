@@ -17,16 +17,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 02------------------
-
-
-
-
-
-
-
-
-
+------------------Andrew Donoho------------------
+this is the master branch
+I like to play video games
+I am on cross country team
+things that I hate to do is math
+The best subject at school is history
+I love to eat apple pie
+i love to eat ice cream
+my favourite game to play is minecraft
+I would love to go to italy
 ------------------Student 03------------------
 
 

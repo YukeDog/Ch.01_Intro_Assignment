@@ -137,16 +137,16 @@ Ever been out of state? Yes
 
 
 
-------------------Student 14------------------
-
-
-
-
-
-
-
-
-
+------------------Rachel Linthicum------------------
+This is the master branch
+Date of Birth: 10/06/06
+Favorite Color: yellow
+Favorite Movie Franchise: MCU
+Favorite Animal: Monkey
+Favorite Book Author: Rick Riordan
+Favorite Season: Fall/Autumn
+Favorite Sports: Volleyball & Basketball
+Favorite Month: October
 ------------------Carter Mcinville------------------
 This is the master branch
 favorite color: pink

@@ -68,15 +68,15 @@ least favorite food: anything spicy
 sports im in: cross country
 language im taking: adv spanish III
 ------------------Student 07------------------
-
-
-
-
-
-
-
-
-
+Oded H
+This is the master branch
+09/2006
+favorite color: any
+I run Cross Country
+I am in Band
+I like STEM Related Classes
+Tommith sits next to me in CSP
+He calls me Odedulous
 ------------------Student 08------------------
 
 

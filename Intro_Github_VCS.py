@@ -127,16 +127,16 @@ Favorite core subject: Language Arts
 Busiest club I'm part of: Theater
 favorite place to travel: Chicago
 Ever been out of state? Yes
-------------------Student 13------------------
-
-
-
-
-
-
-
-
-
+------------------Anna Legler------------------
+This is the master branch
+My birthday is May 9th 2006
+My favorite color is blue
+I have a dog, she is a goldendoodle
+I have two sisters
+My favorite food is pasta
+My least favorite food is bananas
+I moved to Iowa when I was 2
+I play trumpet and piano
 ------------------Rachel Linthicum------------------
 This is the master branch
 Date of Birth: 10/06/06

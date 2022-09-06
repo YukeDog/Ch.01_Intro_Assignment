@@ -117,16 +117,16 @@ Favorite subject: Science
 Favorite season: winter
 favorite State: California
 Favorite class: Strength
-------------------Student 12------------------
-
-
-
-
-
-
-
-
-
+------------------Arianna Lear------------------
+This is the Master branch
+Favorite color: blue
+01/18/2006
+Do I have pets? yes
+Favorite Animal: Horse
+Favorite core subject: Language Arts
+Busiest club I'm part of: Theater
+favorite place to travel: Chicago
+Ever been out of state? Yes
 ------------------Student 13------------------
 
 

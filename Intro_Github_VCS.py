@@ -157,16 +157,16 @@ Better call saul is top 3 series of all time
 i have renegade raider
 kanye west is consistently in my playlist
 Texas roadhouse makes some pretty good rolls
-------------------Student 16------------------
-
-
-
-
-
-
-
-
-
+------------------Shea Hermon------------------
+This Is The Master Branch
+Shea Hermon
+Favorite Color Is Red
+I like to Fish
+I have red hair
+I like Origammi
+I like football
+I like pizza
+I like To Code
 ------------------Benjamin------------------
 This is the master branch
 06/24/2005

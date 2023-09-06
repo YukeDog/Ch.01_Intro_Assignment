@@ -17,16 +17,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 02------------------
-
-
-
-
-
-
-
-
-
+----------------Elias Bethards----------------
+this is a testing branch!
+CSP is a class
+Mr. Hermon is a teacher
+It is a Wednesday
+I play soccer
+I have exactly 7 mugs in the backseat of my car
+On average, more people die each year to vending machines than to sharks
+There are more possible iterations of a game of chess than there are atoms in the observable universe
+the diameter of the sun is approx. 1.4 million km (about 870,000 mi)
 ------------------amal choudhury------------------
 my faavotire color is teal
 i like golf

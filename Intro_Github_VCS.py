@@ -207,16 +207,16 @@ I enjoy coding
 I recently bought my own computer
 I like puppy chow
 I have a dog and cat
-------------------Student 21------------------
-
-
-
-
-
-
-
-
-
+------------------Jonathan Reischel------------------
+My favorite color is purple
+I have a husky shepard dog mix called Sampson
+I work as a rides operator at Adventure land
+My favorite sports team is the Minnesota Vikings
+I like to fish alot
+I am on the Bowling team at the high school
+My favorite song is Purple rain by Prince
+I like to code
+I have 1 brother
 ------------------AJ Reisinger------------------
 I like the Minnesota Vikings
 I am a big American Football fan

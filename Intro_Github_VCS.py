@@ -287,16 +287,16 @@ I am the only child in my family
 My birthday is 9/23
 I enjoy swimming
 I hope U Hub crashes so chaos happens
-------------------Student 29------------------
-
-
-
-
-
-
-
-
-
+------------------Caden McLaughlin------------------
+I don't have that much that's interesting about me
+So these lines are mostly filler because I couldn't think of anything else
+I share a birthday with Abraham Lincoln
+I can put both legs behind my head
+I can turn my head almost completely around
+I have a genetic disorder called Ehlers-Danlos Syndrome
+I've still never broken a bone
+That's about everything that's interesting about me
+These lines are also filler but with them I have filled all the lines
 ------------------Mr. Hermon------------------
 My favorite color is blue
 I like fishing

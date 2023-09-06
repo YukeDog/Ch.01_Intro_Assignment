@@ -247,16 +247,16 @@ I play video games in my free time
 
 
 
-------------------Student 25------------------
-
-
-
-
-
-
-
-
-
+------------------Hai Tran------------------
+I like kiwis.
+I like cherries.
+I like strawberries.
+I like grapes.
+I like watermelon.
+I like pineapple.
+I like blueberries.
+I like mangoes.
+I like oranges.
 ------------------Student 26------------------
 
 

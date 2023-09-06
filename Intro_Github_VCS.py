@@ -227,16 +227,16 @@ My favorite UFC fighter is khabib
 My favorite NFL player right now is Adam Thielen
 Berserk is my favorite fictional series
 I play video games in my free time
-------------------Student 23------------------
-
-
-
-
-
-
-
-
-
+------------------Jake Staton------------------
+I work at the the Clive Aquatics Center
+I have a dog and three cats (Magnus, Tyrone, Toonces and Tuco)
+I have no children
+I play guitar
+My favorite foods are eggs and mac n cheese
+I live in Urbandale
+I was born in Iowa
+I have two brothers
+I am a senior at Urbandale High School
 ------------------Alex Tiemens------------------
 My favorite color is green
 I have 2 brothers

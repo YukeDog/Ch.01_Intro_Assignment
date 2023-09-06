@@ -187,16 +187,16 @@ I'm in Studio
 I like cats
 My favorite subject is history
 My Zenko Tea order is fresh mango milk with lychee jelly
-------------------Student 19------------------
-
-
-
-
-
-
-
-
-
+-------------Aidan Ordagic------------------
+my fav color is gold
+I like playing star wars battlefront 2
+Im 15
+My fav soccer player is Modric
+my fav UFC fighter is Jon Jones
+my favorite food is mac and cheese
+my favorite restaurant is Charlies at jordan creek
+Favorite holiday is Christmas
+favorite season is winter
 ------------------Blayne Pettengill------------------
 my favorite color is Black
 I have been playing alot of terraria recently

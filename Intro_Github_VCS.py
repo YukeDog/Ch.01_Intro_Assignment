@@ -37,16 +37,16 @@ i have 6 grandchildren
 i own 7 better kayaks
 I like camping more
 i work at brio of johnston
-------------------Student 04------------------
-
-
-
-
-
-
-
-
-
+------------------Treajan Diersen------------------
+this is a testing branch
+Tom Clancy's Rainbow Six Siege is a video game.
+My dog is cool.
+Water is essential.
+Food is alright.
+only good food tho.
+Blue is a cool color.
+I like to leave school.
+My bed is comfortable.
 ------------------Student 05------------------
 
 

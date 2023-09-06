@@ -137,16 +137,16 @@ I love learning
 
 
 
-
-------------------Student 14------------------
-
-
-
-
-
-
-
-
+------------------Logan Mills------------------
+Favorite color is dark green
+I'm into cybersecurity / ethical hacking
+I work on bug bounties in my free time
+I love vintage tech (I ordered an early 2000's ex German Military laptop)
+I own my own custom keyboard that I built
+I prefer linux (Specifically Kali)
+I run my own SIEM server at home
+I work at Pancheros
+I own a 94 Mustang GT
 ------------------Thomas Mitchell------------------
 hi
 

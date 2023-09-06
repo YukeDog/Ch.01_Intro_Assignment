@@ -217,16 +217,16 @@ My Zenko Tea order is fresh mango milk with lychee jelly
 
 
 
-------------------Student 22------------------
-
-
-
-
-
-
-
-
-
+------------------AJ Reisinger------------------
+I like the Minnesota Vikings
+I am a big American Football fan
+I have 1 dog at home
+Christmas is my favorite holiday
+Winter is my favorite season
+My favorite UFC fighter is khabib
+My favorite NFL player right now is Adam Thielen
+Berserk is my favorite fictional series
+I play video games in my free time
 ------------------Student 23------------------
 
 

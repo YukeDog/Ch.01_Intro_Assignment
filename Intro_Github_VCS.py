@@ -178,7 +178,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Tommy Ngo------------------
-This is the master branch
+My favorite color is blue.
 
 
 

@@ -107,16 +107,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 11------------------
-
-
-
-
-
-
-
-
-
+------------------Caleb Little------------------
+My favorite color is purple
+I love cycling & walking
+I play the flute
+Coding is fun, I love python
+My favorite classes are csp and apush
+I have two cats
+I have two siblings
+I am the youngest in my family
+I love learning
 ------------------Student 12------------------
 
 

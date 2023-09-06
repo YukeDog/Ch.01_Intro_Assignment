@@ -67,16 +67,16 @@ I lived in Cleveland, Ohio for most of my childhood.
 I work at Jimmy Johns.
 My favorite type of food is Asian food.
 My favorite place to vacation is Clearwater, Florida.
-------------------Student 07------------------
-
-
-
-
-
-
-
-
-
+------------------Carlos Guzman------------------
+My favorite color is yellow
+I have a dog
+I have seven siblings
+I'm in choir
+I'm in Cross-Country
+I'm in track
+I like fishing
+Summer is my favorite season
+I'm learning guitar
 ------------------Jackson Krier------------------
 My favorite color is blue
 I dislike english class

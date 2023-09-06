@@ -297,16 +297,16 @@ I like oranges.
 
 
 
-------------------Student 30------------------
-
-
-
-
-
-
-
-
-
+------------------Mr. Hermon------------------
+My favorite color is blue
+I like fishing
+I love coding
+I have four children ages 13-30
+I have 3 grandchildren
+I like camping
+I own 7 kayaks
+My job is teaching the future of America
+If U-Hub crashes, it's not because of bad code!
 
 
 

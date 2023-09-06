@@ -157,16 +157,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 16------------------
-
-
-
-
-
-
-
-
-
+------------------Gavin------------------
+I am senior this year
+My favorite food is apple
+I am a part-time member of CORE Club
+I participate in Boys XC & Track
+I work at Hy-vee
+I have a dog, her name is Foxy
+My favorite music artist is Isaac Dunbar
+Some of my hobbies are gaming, art, and cooking
+I love snacks (they're in my backpack)
 ------------------Student 17------------------
 
 

@@ -167,16 +167,16 @@ I have a dog, her name is Foxy
 My favorite music artist is Isaac Dunbar
 Some of my hobbies are gaming, art, and cooking
 I love snacks (they're in my backpack)
-------------------Student 17------------------
-
-
-
-
-
-
-
-
-
+------------------THINH NGO------------------
+my favorite color is blue
+working out is fun
+school is kind of boring right now
+i work a lot
+money is good
+i like eating steak
+i like eating salmon
+i cook
+money
 ------------------Tommy Ngo------------------
 My favorite color is blue
 I used to work at Olive Garden

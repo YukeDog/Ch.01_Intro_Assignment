@@ -197,16 +197,16 @@ My Zenko Tea order is fresh mango milk with lychee jelly
 
 
 
-------------------Student 20------------------
-
-
-
-
-
-
-
-
-
+------------------Blayne Pettengill------------------
+my favorite color is Black
+I have been playing alot of terraria recently
+I love DnD
+I've Been enjoying watching Psych
+My favorite food is Pizza
+I enjoy coding
+I recently bought my own computer
+I like puppy chow
+I have a dog and cat
 ------------------Student 21------------------
 
 

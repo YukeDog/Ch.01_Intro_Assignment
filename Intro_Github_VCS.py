@@ -108,7 +108,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Caleb Little------------------
-My favorite color is blue
+My favorite color is purple
 
 
 

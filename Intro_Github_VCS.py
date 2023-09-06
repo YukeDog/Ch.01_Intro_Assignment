@@ -182,7 +182,7 @@ My favorite color is blue
 My Zenko Tea order is fresh mango milk with lychee jelly
 I'm a senior
 I used to work at Olive Garden
-I love cats
+I love catsK
 My favorite food are tacos
 I play Overwatch
 I'm in Studio

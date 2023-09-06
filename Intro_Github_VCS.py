@@ -237,16 +237,16 @@ I play video games in my free time
 
 
 
-------------------Student 24------------------
-
-
-
-
-
-
-
-
-
+------------------Alex Tiemens------------------
+My favorite color is green
+I have 2 brothers
+I have 2 Dogs
+I have 2 cats
+I've had 5 cats
+I've had 3 dogs
+I am 16
+I like fishing
+I am 5,8
 ------------------Hai Tran------------------
 I like kiwis.
 I like cherries.

@@ -87,16 +87,16 @@ I plan on going to ASU
 I want to study comp sci in college
 I like traveling
 Friday is the best day of the week
-------------------Student 09------------------
-
-
-
-
-
-
-
-
-
+------------------Ava L------------------
+My favorite Color is Blue
+I have two dogs
+I work for the school in the summer
+I have a sister in Collage
+I like art
+Im in theater
+I like to read
+I like coding
+Im thinking of getting a BA in Computer Science
 ------------------Student 10------------------
 
 

@@ -58,8 +58,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Truman Folkers------------------
-My name is Truman Folkers
-
+I have one dog.
 
 
 

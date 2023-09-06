@@ -257,16 +257,16 @@ I like pineapple.
 I like blueberries.
 I like mangoes.
 I like oranges.
-------------------Student 26------------------
-
-
-
-
-
-
-
-
-
+------------------Keira VanderLeest------------------
+I have 3 cats and a dog
+I like to draw
+I play in band
+I am the assistant lighting designer for theater
+I placed within the top 100 in an online rhythm game
+I have one older sister
+I like reading
+My favorite colour is blue
+I play 3 instruments
 ------------------Student 27------------------
 
 

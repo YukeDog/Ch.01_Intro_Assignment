@@ -107,7 +107,6 @@ this is a testing branch
 6
 7
 8
-9
 ------------------Caleb Little------------------
 My favorite color is purple
 I love cycling & walking
@@ -268,16 +267,16 @@ I have one older sister
 I like reading
 My favorite colour is blue
 I play 3 instruments
-------------------Student 27------------------
-
-
-
-
-
-
-
-
-
+------------------Stephen Walters------------------
+My favorite class is CSP
+My favorite color is green
+I play soccer
+I like coding
+I have two older brothers
+I have two dogs
+I haven't won any candy yet
+I have a car
+I am in showchoir
 ------------------Jerry Zheng------------------
 my favorite color is blue
 I like to code

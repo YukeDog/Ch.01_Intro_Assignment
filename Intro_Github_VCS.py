@@ -279,14 +279,14 @@ Tell me some interesting facts about yourself.
 
 ------------------Jerry Zheng------------------
 my favorite color is blue
-
-
-
-
-
-
-
-
+I like to code
+I like to travel
+My favorite food is Lobster
+I enjoy math
+I am the only child in my family
+My birthday is 9/23
+I enjoy swimming
+I hope U Hub crashes so chaos happens
 ------------------Student 29------------------
 
 

@@ -57,16 +57,16 @@ i work at brio of johnston
 
 
 
-------------------Student 06------------------
-
-
-
-
-
-
-
-
-
+------------------Truman Folkers------------------
+I have one dog named Bailey.
+I like playing basketball and tennis.
+I like playing drums for jazz band, show band, and marching band.
+My favorite music artist is Boz Scaggs.
+My favorite color is blue.
+I lived in Cleveland, Ohio for most of my childhood.
+I work at Jimmy Johns.
+My favorite type of food is Asian food.
+My favorite place to vacation is Clearwater, Florida.
 ------------------Student 07------------------
 
 

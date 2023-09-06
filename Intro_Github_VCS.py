@@ -177,16 +177,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 18------------------
-
-
-
-
-
-
-
-
-
+------------------Tommy Ngo------------------
+My favorite color is blue
+I used to work at Olive Garden
+I'm a senior
+My favorite food is tacos
+I play Overwatch
+I'm in Studio
+I like cats
+My favorite subject is history
+My Zenko Tea order is fresh mango milk with lychee jelly
 ------------------Student 19------------------
 
 

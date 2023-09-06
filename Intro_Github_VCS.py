@@ -128,15 +128,15 @@ My favorite subject is History
 I have three pets
 I played baseball for 12 years
 ------------------Student 13------------------
-
-
-
-
-
-
-
-
-
+My name is Cung Mang
+I like to play soccer
+I go to UHS
+I am coding in Python
+I am in CSP
+I like the school lunch
+My CSP's teacher name is Hermon
+I like CSP
+I am in 8 classes right now in UHS.
 ------------------Logan Mills------------------
 Favorite color is dark green
 I'm into cybersecurity / ethical hacking

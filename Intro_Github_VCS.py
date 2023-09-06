@@ -298,7 +298,7 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Mr. Hermon------------------
-me
+My favorite color is blue
 
 
 

@@ -27,16 +27,16 @@ Tell me some interesting facts about yourself.
 
 
 
-------------------Student 03------------------
-
-
-
-
-
-
-
-
-
+------------------amal choudhury------------------
+my faavotire color is teal
+i like golf
+i love tennis
+i have 6 children ages 2-47
+i am 16
+i have 6 grandchildren
+i own 7 better kayaks
+I like camping more
+i work at brio of johnston
 ------------------Student 04------------------
 
 

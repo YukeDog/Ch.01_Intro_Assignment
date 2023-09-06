@@ -47,16 +47,16 @@ only good food tho.
 Blue is a cool color.
 I like to leave school.
 My bed is comfortable.
-------------------Student 05------------------
-
-
-
-
-
-
-
-
-
+------------------Muhammad Elshafie------------------
+My favorite color is green
+I love Python
+I love Soccer
+I have a family members of 6
+I love Video games
+I love travelling a lot
+I love Watching movies
+I like Some shows
+I cant wait till I Graduate
 ------------------Truman Folkers------------------
 I have one dog named Bailey.
 I like playing basketball and tennis.

@@ -37,15 +37,6 @@ i have 6 grandchildren
 i own 7 better kayaks
 I like camping more
 i work at brio of johnston
-
-
-
-
-
-
-
-
-
 ------------------Student 04------------------
 
 

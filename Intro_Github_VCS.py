@@ -78,15 +78,15 @@ Tell me some interesting facts about yourself.
 
 
 ------------------Jackson Krier------------------
-this is a testing branch
-
-
-
-
-
-
-
-
+My favorite color is blue
+I dislike english class
+I have played Hockey for 10 years
+I have a brother in college at UNI
+I like lifting
+I plan on going to ASU
+I want to study comp sci in college
+I like traveling
+Friday is the best day of the week
 ------------------Student 09------------------
 
 

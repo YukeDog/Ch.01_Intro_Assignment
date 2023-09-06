@@ -117,16 +117,16 @@ I have two cats
 I have two siblings
 I am the youngest in my family
 I love learning
-------------------Student 12------------------
-
-
-
-
-
-
-
-
-
+------------------Walker Lowe------------------
+I work at Fareway
+My favorite color is blue
+I like pirates
+I like spending time with my friends
+I like cars
+I drive a WRX
+My favorite subject is History
+I have three pets
+I played baseball for 12 years
 ------------------Student 13------------------
 
 
